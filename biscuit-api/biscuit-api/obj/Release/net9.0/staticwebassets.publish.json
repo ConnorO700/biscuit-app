@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HlD5cvosmbQrVFcpJnP4spxKeTkkDJReUDqXpXtIG/0=",
+  "Source": "biscuit-api",
+  "BasePath": "_content/biscuit-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@biscuit_api_HostAddress = http://localhost:8080
+
+GET {{biscuit_api_HostAddress}}
+Accept: application/json
+
+###

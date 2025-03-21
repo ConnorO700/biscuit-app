@@ -1,0 +1,15 @@
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\biscuit-api.exe
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\biscuit-api.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\biscuit-api.deps.json
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\biscuit-api.runtimeconfig.json
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\biscuit-api.pdb
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\DnsClient.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\SharpCompress.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\Snappier.dll
+C:\Users\Connor\Desktop\Workspace\CurrentProjects\biscuit-app\biscuit-api\biscuit-api\obj\Release\net9.0\PubTmp\Out\ZstdSharp.dll

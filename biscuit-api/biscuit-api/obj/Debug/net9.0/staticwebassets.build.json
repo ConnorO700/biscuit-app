@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t3RzmpFR0ojs5mRByHUhbRc6WW1RSY9Ch9RzHTuGe7k=",
+  "Source": "biscuit-api",
+  "BasePath": "_content/biscuit-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,8 +1,9 @@
 import React from 'react'
 import BiscuitListing from './BiscuitListing'
-import biscuits from '../biscuits.json'
+import biscuits from '../BiscuitDB.Biscuits.json'
 
 function BiscuitListings() {
+	const recentBiscuits = biscuits.slice(0,6);
 	return (
 		<>
 
@@ -13,8 +14,8 @@ function BiscuitListings() {
 					</h2>
 					<div className="grid grid-cols-1 md:grid-cols-3 gap-6">
 						{
-							biscuits.map((biscuit) => (
-								<BiscuitListing biscuit={biscuit} />
+							recentBiscuits.map((biscuit) => (
+								<BiscuitListing key={biscuit.Name} biscuit={biscuit} />
 							))
 						}
 					</div>

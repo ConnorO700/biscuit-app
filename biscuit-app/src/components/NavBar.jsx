@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../assets/Biscuit-logo.svg'
-
+import { Link } from 'react-router-dom'
 
 function NavBar() {
 	return (
@@ -11,33 +11,33 @@ function NavBar() {
 						<div
 							className="flex flex-1 items-center justify-center md:items-stretch md:justify-start"
 						>
-							<a className="flex flex-shrink-0 items-center mr-4" href="/index.html">
+							<Link className="flex flex-shrink-0 items-center mr-4"
+								to="/">
 								<img
 									className="h-10 w-auto"
 									src={Logo}
 									alt="Biscuits"
 								/>
-								<span className="hidden md:block text-white text-2xl font-bold ml-2"
-								></span
-								>
-							</a>
+								<span className="hidden md:block text-white text-2xl font-bold ml-2">
+								</span>
+							</Link>
 							<div className="md:ml-auto">
 								<div className="flex space-x-2">
-									<a
-										href="/index.html"
+									<Link
+										to="/"
 										className="text-white bg-black hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
-									>Home</a
-									>
-									<a
-										href="/jobs.html"
+									>Home
+									</Link>
+									<Link
+										to="/biscuit"
 										className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
-									>Biscuits</a
-									>
-									<a
-										href="/add-job.html"
+									>Biscuits
+									</Link>
+									<Link
+										to="/add-biscuit"
 										className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
-									>Add Biscuits</a
-									>
+									>Add Biscuits
+									</Link>
 								</div>
 							</div>
 						</div>

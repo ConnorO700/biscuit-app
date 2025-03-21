@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("biscuit-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8a3d614d95addb56aef4b49dee115b0f19758e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e8ec70ae35ccd864af9236976ee1f1b1d0f5fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("biscuit-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("biscuit-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

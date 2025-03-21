@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba2"
+  },
+  "Description": "a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient.",
+  "Name": "chocolate chip",
+  "Price": 1,
+  "Type": "cookie"
+},
+{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba4"
+  },
+  "Description": "a spiced, often molasses-flavored, sweet cookie, frequently cut into fanciful shapes and decorated",
+  "Name": "gingerbread",
+  "Price": 2.5,
+  "Type": "cookie"
+},
+{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba0"
+  },
+  "Description": "a small, typically round cake of bread leavened with baking powder, baking soda, or sometimes yeast.",
+  "Name": "American",
+  "Price": 3.99,
+  "Type": "biscuit"
+},
+{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba1"
+  },
+  "Description": "a cookie or cracker.",
+  "Name": "British",
+  "Price": 2.99,
+  "Type": "biscuit"
+},
+{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba3"
+  },
+  "Description": "denoting or made from wholewheat flour that has not been sifted.",
+  "Name": "graham",
+  "Price": 0.5,
+  "Type": "cracker"
+},
+{
+  "_id": {
+    "$oid": "67d9d0e1c7ab1f8bf1030ba5"
+  },
+  "Description": "a thin, crisp cracker leavened with baking soda.",
+  "Name": "saltine",
+  "Price": 0.33,
+  "Type": "cracker"
+}]
